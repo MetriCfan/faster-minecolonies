@@ -11,6 +11,6 @@ speeds up research and colonists walking plus block place and break speed
   - glassblower (glass and stained glass)
 
 important:
--  get things going you need to do the woodwork research first
+- to get things going you need to do the woodwork research first
 - make a town hall, builder, forester then university band do the woodwork research
 after that do whatever you please
