@@ -1,7 +1,7 @@
 # faster-minecolonies
 speeds up research and colonists walking plus block place and break speed
 
-- this modpack decreases the time taken to complete research
+- this datapack decreases the time taken to complete research
 - it also makes the research requirements easier
 - it also allows you to skip certain buildings if you want e.g. dyer, florist, concrete mixer, barracks
 - colour recipes have been automatically added to:
